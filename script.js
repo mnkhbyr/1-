@@ -440,7 +440,6 @@ if (undoBtn) {
         } else {
             hideUndoToast();
         }
-
         populatePageDropdowns();
         renderGrid();
     });
